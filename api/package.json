@@ -1,0 +1,13 @@
+{
+  "name": "api",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@redwoodjs/api": "8.9.0",
+    "@redwoodjs/api-server": "8.9.0",
+    "@redwoodjs/graphql-server": "8.9.0",
+    "@redwoodjs/realtime": "8.9.0",
+    "ioredis": "^5",
+    "openai": "^6.32.0"
+  }
+}
