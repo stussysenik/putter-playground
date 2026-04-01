@@ -24,6 +24,9 @@
 
 ## About
 
+![Demo](demo.gif)
+
+
 Putter Playground is a full-stack RedwoodJS app with two AI-powered playgrounds:
 
 - **Code Generator** — Describe what you want in plain English, and GLM 4.7 writes the code for you with real-time streaming output.
